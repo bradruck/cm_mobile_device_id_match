@@ -1,0 +1,4 @@
+jira
+qds_sdk
+requests
+multiprocessing-logging
