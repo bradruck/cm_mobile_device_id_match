@@ -49,7 +49,7 @@ Primary Users:    <ul>
                   </ul>
 
 Lead Customer:    <ul>
-                  <li>Petya Mavrikov (petya.mavrikov@oracle.com)
+                  <li>
                   </ul>
 
 Lead Developer:   <ul>
