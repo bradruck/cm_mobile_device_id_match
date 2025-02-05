@@ -29,23 +29,22 @@ Required modules: <ul>
                   </ul>
 
 Location:         <ul>
-                  <li>Deployment -> //prd-use1a-pr-34-ci-operations-01/opt/app/automations/brad/Projects/
-                  <li>                                                   campaign_management_mobile_device_id_match/
-                  <li>Scheduled to run twice a month, triggered by ActiveBatch-V11 under File/Plan -> CM_MAID_to_HHID
+                  <li>Deployment -> 
+                  <li>Scheduled to run twice a month, triggered by ActiveBatch-V11 under File/Plan -> 
                   </ul>
 
 Source Code:      <ul>
-                  <li>//gitlab.oracledatacloud.com/odc-operations/CM_MAID_HHID_Match/
+                  <li>
                   </ul>
 
 LogFile Location: <ul>
-                  <li>//zfs1/Operations_mounted/CampaignManagement/MaidsToHHIDsLogs/
+                  <li>
                   </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Campaign Management
+                  <li>
                   </ul>
 
 Lead Customer:    <ul>
@@ -53,7 +52,7 @@ Lead Customer:    <ul>
                   </ul>
 
 Lead Developer:   <ul>
-                  <li>Bradley Ruck (bradley.ruck@oracle.com)
+                  <li>Bradley Ruck
                   </ul>
 
 Date Launched:    <ul>
